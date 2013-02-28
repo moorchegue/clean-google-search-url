@@ -8,4 +8,4 @@ request if you want more Google domains.
 Chrome supports GreaseMonkey userscripts directly. Drag & drop "Clean
 Google search URL.user.js" to Chrome to install it.
 
-Based on [the Clean Google search URL script on sumtips.com](sumtips.com/2011/12/get-clean-unmodified-url.html).
+Based on [the Clean Google search URL script on sumtips.com](http://sumtips.com/2011/12/get-clean-unmodified-url.html).
