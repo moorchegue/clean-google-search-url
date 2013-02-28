@@ -5,6 +5,7 @@
 // @homepage      http://sumtips.com/
 // @match         *://*.google.com/search*
 // @match         *://*.google.nl/search*
+// @match         *://*.google.ru/search*
 // @version       1.0
 // ==/UserScript==
 
